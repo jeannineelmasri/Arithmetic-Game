@@ -219,7 +219,7 @@ public class ArithmeticGame {
     
     public void levelOneQuestionTwo(){
         position = "levelOneQuestionTwo";
-        mainTextArea.setText("\n\n                 What is 10 + 21?");
+        mainTextArea.setText("\n\n                 What is 10 + 11?");
         choice2.setText("21");
         choice1.setText("" + randNumThree);
         choice3.setText("" + randNumFour);
