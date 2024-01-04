@@ -12,7 +12,7 @@ import javax.swing.JTextArea;
 import java.util.Random;
 
 
-/* Author: Jeannine Elmasri COME BACK AND CHANGE ATTEMPTS TO SCORE AND CHANGE ORDER OF ANSWERS SO ITS NOT ALL THE FIRST ONE */
+/* Author: Jeannine Elmasri */
 
 public class ArithmeticGame {
 
